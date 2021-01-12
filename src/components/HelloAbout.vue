@@ -1,5 +1,8 @@
 <template>
-  <div>This is a new about page.</div>
+  <div>
+    <div>This is a new about page.</div>
+    <div>A new content here.</div>
+  </div>
 </template>
 
 <script>
