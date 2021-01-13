@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h3>A component was here.</h3>
+    <h3>A component was here before.</h3>
   </div>
 </template>
 
